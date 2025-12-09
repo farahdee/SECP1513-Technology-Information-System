@@ -31,7 +31,12 @@ I am sincerely thankful to the PPG team and to our lecturer, Dr. Aryati bt Bakri
 
 ---
 
-## Suggestions for Improving SECP Programme
-- Allocate more time for Q&A sessions so students can clarify things directly from industry professionals. <br>
+## Improvement Suggestion
+- Allocate more time for Q&A sessions so students can clarify things directly from industry professionals.
 - Provide slides so students can continue learning after the session.
+
+---
+## Group Poster
+![DataVenture](https://github.com/user-attachments/assets/eff0dfa9-b933-4735-bd70-0d0c144d256a)
+
 
