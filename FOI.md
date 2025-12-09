@@ -1,5 +1,5 @@
 # Festival of Ideas 
-## 🚀 Introduction
+## Introduction
 This repository documents my experience attending the Festival of Ideas at PICC Putrajaya, where I participated as an observer and learner. The event brought together innovators, creators, and thought leaders across multiple industries. My goal was to explore new ideas, learn from experts, and gain inspiration from the booths and forums showcased during the event.
 
 ---
