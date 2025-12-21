@@ -21,8 +21,6 @@
 ## Vision
 To explore a digitally empowered UTM community driven by innovation, collaboration, and the effective use of technology, ultimately contributing to a smarter and more sustainable future.
 
----
-
 # Group Agreement
 As a team, we agree to work together responsibly, complete our tasks on schedule, respect each other’s ideas, and ensure that all work produced is authentic and free from plagiarism.
 
