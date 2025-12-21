@@ -2,6 +2,7 @@
 
 **Date:** 30 October 2025  
 **Time:** 4pm - 5pm
+**Venue:** N28a
 
 ---
 
