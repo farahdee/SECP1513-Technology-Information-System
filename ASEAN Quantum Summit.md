@@ -5,6 +5,8 @@
 **Venue:** Dewan Sultan Iskandar, UTM
 
 ---
+## Introduction
+I attended a knowledge-sharing session focused on Quantum Technologies, which provided an overview of how quantum research is being developed and coordinated through the Centre for Quantum Technologies (CQT). The session highlighted the importance of interdisciplinary collaboration, national research strategies, and the growing role of quantum computing and related technologies in solving complex real-world problems.
 
 ## Summary
 The session introduced the Centre for Quantum Technologies (CQT) and its role as a national hub for advancing quantum research through collaboration with leading institutions such as NUS and partner universities. The talk highlighted six major research domains, including quantum computing, communication and security, sensing, devices, biology, and interdisciplinary quantum science.
