@@ -1,4 +1,6 @@
 # Festival of Ideas 
+
+
 ## Introduction
 This repository documents my experience attending the Festival of Ideas at PICC Putrajaya, where I participated as an observer and learner. The event brought together innovators, creators, and thought leaders across multiple industries. My goal was to explore new ideas, learn from experts, and gain inspiration from the booths and forums showcased during the event.
 
@@ -11,7 +13,6 @@ During the Festival of Ideas, I:
 - Took notes on notable insights, emerging trends, and interesting technologies demonstrated at the event.
 Overall, the event offered a well-rounded exposure to forward-thinking concepts and real-world applications.
 
----
 ## Reflection
 Attending the Festival of Ideas was an inspiring experience. Listening to forum speakers helped me better understand the challenges and opportunities shaping today’s innovation landscape. I gained insights into:
 - How creative ideas can turn into practical solutions
