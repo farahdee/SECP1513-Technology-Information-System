@@ -1,10 +1,13 @@
 # Festival of Ideas 
 
+**Date:** 5 November 2025  
+**Time:** 8am - 4pm  
+**Venue:** PICC, Putrajaya 
 
+---
 ## Introduction
 This repository documents my experience attending the Festival of Ideas at PICC Putrajaya, where I participated as an observer and learner. The event brought together innovators, creators, and thought leaders across multiple industries. My goal was to explore new ideas, learn from experts, and gain inspiration from the booths and forums showcased during the event.
 
----
 ## Summary
 During the Festival of Ideas, I:
 - Attended several forums featuring speakers discussing innovation, technology, sustainability, education, and the future of creative industries.
@@ -22,7 +25,6 @@ Attending the Festival of Ideas was an inspiring experience. Listening to forum 
 - Walking through the booths allowed me to see how different teams present their work visually and interactively, which gave me practical ideas for how to structure and showcase future projects or presentations.
 - Although I attended mainly as a learner, the event broadened my perspective and motivated me to continue developing my own skills and ideas.
 
----
 ## Improvement Suggestions 
 Based on what I observed and learned during the event, here are some improvements I aim to apply in future events:
 - Engage More Deeply with Exhibitors
