@@ -12,8 +12,6 @@
 - Reassembled the entire system and tested it to ensure it could boot without issues
 - Completed a short quiz based on the practical session to reinforce what we learned
 
----
-
 ## Reflection
 As a first-year student, the PC Assembly and Disassembly Lab Session was an incredibly valuable experience for me. It was my first time opening a real computer and seeing its internal parts up close. Our lecturer guided us through each step, showing how to properly handle delicate components such as the motherboard, RAM, power supply, and storage devices. Watching the demonstration made me appreciate how much precision and attention to detail are needed when working with hardware.
 
@@ -23,9 +21,6 @@ Through this hands-on activity, I realised that I enjoy physically examining, re
 
 I’m truly grateful to our lecturer, **Dr. Aryati bt Bakri**, for giving us this opportunity to explore computer hardware in a practical way. This lab session was meaningful and unforgettable, and it has motivated me to continue strengthening my technical skills as I progress further in the tech field.
 
----
 ## Improvement Suggestions
 - Allow more time for hands-on practice so every student can fully explore more components individually
 - Offer a simple pre-lab and post-lab checklist to help students prepare and review more effectively
-
----
