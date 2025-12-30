@@ -21,8 +21,7 @@ This industry talk was presented by PPG, a global leader known for protecting an
 Together, these pillars play a vital role in sustaining PPG’s operational excellence and supporting its global footprint.
 
 ## Reflection
-Attending this industry talk as a first-year student was truly impactful for me. It helped me appreciate how significant PPG is as one of the world’s major suppliers of paints and coatings used in well-known products—ranging from electronic screens and devices to everyday items like beverage cans. What stood out even more was a key message about career development: success doesn’t depend solely on grades. Project experience, technical abilities, and soft skills are equally important. This motivated me to begin building real-world experience as early as possible.
-
+Attending this industry talk as a first-year student was truly impactful for me. It helped me appreciate how significant PPG is as one of the world’s major suppliers of paints and coatings used in well-known products ranging from electronic screens and devices to everyday items like beverage cans. Project experience, technical abilities, and soft skills are equally important. This motivated me to begin building real-world experience as early as possible.
 After the talk, my interest in PPG grew even more. With its strong technological foundation, structured workflows, and clear skill expectations, PPG seems like a place where I could learn, grow, and contribute meaningfully. I am now motivated to strengthen my skills in these technical domains so that one day I can deliver real value on a global scale.
 
 I am sincerely thankful to the PPG team and to our lecturer, Dr. Aryati bt Bakri, for giving us the chance to learn more about the industry. This session truly inspired me to keep improving myself, and I hope that one day I will have the opportunity to join PPG, gain hands-on experience, and contribute to their innovative work.
