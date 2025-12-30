@@ -27,5 +27,9 @@ As a team, we agree to work together responsibly, complete our tasks on schedule
 # Summary
 Our visit to UTMDigital during the UTMDigital Open Day was an eye-opening experience. We learned how UTMDigital manages essential digital services for the university, including campus networking, data centre operations, cybersecurity, and software-related support.
 
+# Reflection
+The UTMDigital Open Day provided valuable exposure to how digital services support teaching, learning, and university operations. Through interactions with UTMDigital staff, we gained a better understanding of areas such as networking, cybersecurity, and system management.
+This experience also improved our teamwork and communication skills as we worked together to gather information and complete our tasks. Overall, the event increased our awareness of the importance of digital technology in education and encouraged us to apply this knowledge in our academic journey.
+
 # Improvement Suggestions
 - Provide a better digital map of the booths so students can plan their visit and not miss the important sections.
