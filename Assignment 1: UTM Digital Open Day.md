@@ -33,3 +33,6 @@ This experience also improved our teamwork and communication skills as we worked
 
 # Improvement Suggestions
 - Provide a better digital map of the booths so students can plan their visit and not miss the important sections.
+
+## Video
+[View](https://youtu.be/8ATcdtBz3I4?si=vIaCTL2lXW9F6-Ky)
